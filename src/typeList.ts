@@ -35,3 +35,5 @@ let undefined1: undefined = undefined;
 // object
 let object: object = {};
 let obj2: { id: number; name: string } = { id: 0, name: "AAA" };
+
+export {};
